@@ -1,0 +1,8 @@
+pandas
+scikit-learn
+joblib
+PyMuPDF
+lightgbm
+google-generativeai
+chromadb
+flask
